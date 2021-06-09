@@ -18,8 +18,8 @@ I started building and submitting models at round 255 so I am relatively new to 
 ![](numerai_263_gold.png)
 
 **Model 3: Clowder** 
-* This is an ensembled model from multiple models I created for the tournament. 
 <br>https://numer.ai/clowder
+* This is an ensembled model from multiple models I created for the tournament. 
 
 
 ### About this Notebook
