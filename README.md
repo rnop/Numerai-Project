@@ -11,12 +11,13 @@ I started building and submitting models at round 255 so I am relatively new to 
 
 ![](numerai_goldmedals.png)
 
-**Model 2: Unnamed**
+**Model 2: Whiskers**
 * This is currently my best model in the tournament. Not making this public because of staking and anonymity.
-* Ranked #1 in correlation for round 263 
+* Ranked #1 in correlation for round 263 (2 Gold Medals)
 * I expect this model to jump the leaderboard after 20 rounds
 
 ![](numerai_263_gold.png)
+![](round263_top1.png)
 
 **Model 3: Clowder** 
 <br>https://numer.ai/clowder
