@@ -12,7 +12,7 @@ I started building and submitting models at round 255 so I am relatively new to 
 ![](numerai_goldmedals.png)
 
 **Model 2: Whiskers**
-* This is currently my best model in the tournament. Not making this public because of staking and anonymity.
+* This is currently my best model in the tournament. Not making the model code public.
 * Ranked #1 in correlation for round 263 (2 Gold Medals)
 * I expect this model to jump the leaderboard after 20 rounds
 
