@@ -3,7 +3,7 @@
 Numerai is a hedge fund that trades the global markets based on models created by data scientists all over the world. Numerai is unique in that it provides free high-quality financial datasets that are worth millions of dollars to any user wanting to participate in their tournament. Users are able to build their own models on this anonymized and obfuscated dataset, submit their predictions, and follow their investment performance on the live stock market. If users are confident about their models, they are able to stake on them with real money using Numerai's cryptocurrency, Numeraire (NMR).
 
 ### My Numerai Models
-I started building and submitting models at round 255 so I am relatively new to the Numerai tournament. I have three main models for the tournament that are all named after my cat Winston. These models have accumulated bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 2nd of all models) in round 263. 
+I started building and submitting models at round 255 so I am relatively new to the Numerai tournament. I have three main models for the tournament that are all named after my cat Winston. These models have accumulated bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. 
 
 **Model 1: SirWinstonPurchill** 
 <br>https://numer.ai/sirwinstonpurrchill
