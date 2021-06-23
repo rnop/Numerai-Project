@@ -3,11 +3,12 @@
 Numerai is a hedge fund that trades the global markets based on models created by data scientists all over the world. Numerai is unique in that it provides free high-quality financial datasets that are worth millions of dollars to any user wanting to participate in their tournament. Users are able to build their own models on this anonymized and obfuscated dataset, submit their predictions, and follow their investment performance on the live stock market. If users are confident about their models, they are able to stake on them with real money using Numerai's cryptocurrency, Numeraire (NMR).
 
 ### My Numerai Models
-I started building and submitting models at round 255 so I am relatively new to the Numerai tournament. I have three main models for the tournament that are all named after my cat Winston. These models have accumulated bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. 
+#### Main Tournament
+I started building and submitting models for the main tournament at round 255 so I am relatively new. I have three main models that are all named after my cat Winston. These models have accumulated multiple bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. 
 
 **Model 1: SirWinstonPurchill** 
 <br>https://numer.ai/sirwinstonpurrchill
-* 2 Gold Medals (Top 1% in CORR and MMC)
+* 2 Gold Medals (Top 1% in CORR and MMC. 1st in CORR & 7th in MMC)
 
 ![](numerai_goldmedals.png)
 
@@ -23,6 +24,11 @@ I started building and submitting models at round 255 so I am relatively new to 
 <br>https://numer.ai/clowder
 * This is an ensembled model from multiple models I created for the tournament. 
 
+#### Signals Tournament
+<br>https://signals.numer.ai/sza
+* 2 Gold Medals (Top 1% in CORR and MMC. 3rd in CORR & 3rd in MMC)
+
+![](r268_signals_gold.png)
 
 ### About this Notebook
 It is much easier to run the notebook on Google Colab (Pro) because the library dependencies are much smoother. You may need to upgrade to colab pro as I have to get access to higher RAM and GPU capabilities.
