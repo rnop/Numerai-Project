@@ -8,7 +8,7 @@ I started building and submitting models for the main tournament at round 255 so
 
 **Model 1: SirWinstonPurchill** 
 <br>https://numer.ai/sirwinstonpurrchill
-* 2 Gold Medals (Top 1% in CORR and MMC. 1st in CORR & 7th in MMC)
+* 2 Gold Medals (Top 1% in CORR and MMC for round 262)
 
 ![](numerai_goldmedals.png)
 
