@@ -16,6 +16,8 @@ I started building and submitting models for the main tournament at round 255 so
 * This is currently my best model in the tournament. Not making the model code public.
 * Ranked #1 in correlation for round 263 (2 Gold Medals)
 * Top 100 in CORR, MCC, and FNC
+
+
 ![](whiskers_top100_corr_mcc_fnc.png)
 ![](numerai_263_gold.png)
 ![](round263_top1.png)
