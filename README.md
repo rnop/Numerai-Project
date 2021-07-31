@@ -4,7 +4,7 @@ Numerai is a hedge fund that trades the global markets based on models created b
 
 ## My Models
 ### Main Tournament
-I started building and submitting models for the main tournament at round 255 so I am relatively new. I have three main models that are all named after my cat Winston. These models have accumulated multiple bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. 
+I started building and submitting models for the main tournament at round 255 so I am relatively new. I have three main models that are all named after my cat Winston. These models have accumulated multiple bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. My highest staked model is currently in the top 100 in CORR, MCC, and FNC. 
 
 **Model 1: SirWinstonPurchill** 
 <br>https://numer.ai/sirwinstonpurrchill
@@ -15,8 +15,8 @@ I started building and submitting models for the main tournament at round 255 so
 **Model 2: Whiskers**
 * This is currently my best model in the tournament. Not making the model code public.
 * Ranked #1 in correlation for round 263 (2 Gold Medals)
-* I expect this model to jump the leaderboard after 20 rounds
-
+* Top 100 in CORR, MCC, and FNC
+![](whiskers_top100_corr_mcc_fnc.png)
 ![](numerai_263_gold.png)
 ![](round263_top1.png)
 
