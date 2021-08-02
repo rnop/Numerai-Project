@@ -27,12 +27,11 @@ I started building and submitting models for the main tournament at round 255 so
 * This is an ensembled model from multiple models I created for the tournament. 
 
 ### Signals Tournament
-**Model 1: SZA**
-<br>https://signals.numer.ai/sza
+**Model 1: SirWinston**
+<br>https://signals.numer.ai/sirwinston
 * 2 Gold Medals (Top 1% in CORR and MMC. 3rd in CORR & 3rd in MMC)
 * Model composed of alternative and technical features
-
-![](r268_signals_gold.png)
+* Scores are currently too volatile to stake 
 
 ### About this Notebook
 It is much easier to run the notebook on Google Colab (Pro) because the library dependencies are much smoother. You may need to upgrade to colab pro as I have to get access to higher RAM and GPU capabilities.
