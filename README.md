@@ -18,7 +18,7 @@ I started building and submitting models for the main tournament at round 255 so
 * Top 100 in CORR, MCC, and FNC
 
 
-![](whiskers_top100_corr_mcc_fnc.png)
+![](whiskers_rank30corr.png)
 ![](numerai_263_gold.png)
 ![](round263_top1.png)
 
