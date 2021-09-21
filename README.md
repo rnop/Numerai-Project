@@ -1,57 +1,24 @@
-# Numerai Tournament
+# Numerai Tournament (updated for the 1k+ feature release) 
 ## Introduction
 Numerai is a hedge fund that trades the global markets based on models created by data scientists all over the world. Numerai is unique in that it provides free high-quality financial datasets that are worth millions of dollars to any user wanting to participate in their tournament. Users are able to build their own models on this anonymized and obfuscated dataset, submit their predictions, and follow their investment performance on the live stock market. If users are confident about their models, they are able to stake on them with real money using Numerai's cryptocurrency, Numeraire (NMR).
 
-## My Models
-### Main Tournament
-I started building and submitting models for the main tournament at round 255 so I am relatively new. I have three main models that are all named after my cat Winston. These models have accumulated multiple bronze, silver, and gold medals with my best performing model in the 100th percentile (ranked 1st in correlation of **all** models) in round 263. My highest staked model is currently in the top 100 in CORR, MCC, and FNC. 
-
-**Model 1: SirWinstonPurchill** 
-<br>https://numer.ai/sirwinstonpurrchill
-* 2 Gold Medals (Top 1% in CORR and MMC for round 262)
-
-![](numerai_goldmedals.png)
-
-**Model 2: Whiskers**
-* This is currently my best model in the tournament. Not making the model code public.
-* Ranked #1 in correlation for round 263 (2 Gold Medals)
-* Top 100 in CORR, MCC, and FNC
-
-
-![](top_rank.png)
-![](numerai_263_gold.png)
-![](round263_top1.png)
-
-**Model 3: Clowder** 
-<br>https://numer.ai/clowder
-* This is an ensembled model from multiple models I created for the tournament. 
-
-### Signals Tournament
-**Model 1: SirWinston**
-<br>https://signals.numer.ai/sirwinston
-* 2 Gold Medals (Top 1% in CORR and MMC. 3rd in CORR & 3rd in MMC)
-* Model composed of alternative and technical features
-* Scores are currently too volatile to stake 
-
 ### About this Notebook
-It is much easier to run the notebook on Google Colab (Pro) because the library dependencies are much smoother. You may need to upgrade to colab pro as I have to get access to higher RAM and GPU capabilities.
+The purpose of this notebook is to provide an introduction on how to approach the main Numerai tournament using Google Colab Pro. Pro version is needed for the extra VRAM!
 
-The purpose of this notebook is to provide an introduction on how to approach the main Numerai tournament.
+Alot of the code is taken from example scripts from Numerai's official GitHub here: https://github.com/numerai/example-scripts
 
 What's included:
-* how to read in the Numerai data via API
-* approaches to dimensionality reduction
-* training an xgboost model 
-* bayesian optimization techniques
+* how to read in the new Numerai data via API
+* train a lightgbm model
 * calculating predictions from the current round
+* submit live rounds via API
 
 ### Libraries
 * numpy
 * pandas
-* sklearn
-* xgboost
-* tensorflow
-* bayesian-optimization
+* matplotlib
+* seaborn
+* lightgbm
 * numerapi
 
 ### Disclaimer
