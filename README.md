@@ -1,6 +1,6 @@
 # Numerai Tournament (updated for the 1k+ feature release) 
 ## Introduction
-Numerai is a hedge fund that trades the global markets based on models created by data scientists all over the world. Numerai is unique in that it provides free high-quality financial datasets that are worth millions of dollars to any user wanting to participate in their tournament. Users are able to build their own models on this anonymized and obfuscated dataset, submit their predictions, and follow their investment performance on the live stock market. If users are confident about their models, they are able to stake on them with real money using Numerai's cryptocurrency, Numeraire (NMR).
+Numerai is a global hedge fund that trades the stock market based on crowd-sourced knowledge of data scientists all over the world. They provide expensive, high-quality financial datasets for free to participants in their data science tournament who build and train models and submit their predictions to Numerai every round. If participants are confident about the predictive power of their models, they can stake them with cryptocurrency ($NMR) and potentially earn money for correct predictions during live trading rounds.   
 
 ### About this Notebook
 The purpose of this notebook is to provide an introduction on how to approach the main Numerai tournament using Google Colab Pro. Pro version is needed for the extra VRAM!
