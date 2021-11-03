@@ -28,3 +28,19 @@ What's included:
 
 ### Disclaimer
 **This model is not guaranteed to make you money.** I am currently not staking this particular model in the tournament. This notebook only serves to provide you an introduction to the tournament and to give some of my personal input on how to tackle this data science problem. 
+
+### Check Out My Models
+Models Using the Old Legacy Dataset (310 features)
+* DIMENSION30 - https://numer.ai/dimension30
+* DIMENSION31 - https://numer.ai/dimension31
+* DIMENSION33 - https://numer.ai/dimension33
+
+Models Using the New Super Massive Dataset (1k+ features)
+* DIMENSION0 - https://numer.ai/dimension0
+* DIMENSION3 
+* DIMENSION4
+* DIMENSION5
+* DIMENSION6
+* DIMENSION7
+* DIMENSION20 
+* DIMENSION22
