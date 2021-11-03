@@ -37,10 +37,10 @@ Models Using the Old Legacy Dataset (310 features)
 
 Models Using the New Super Massive Dataset (1k+ features)
 * DIMENSION0 - https://numer.ai/dimension0
-* DIMENSION3 
-* DIMENSION4
-* DIMENSION5
-* DIMENSION6
-* DIMENSION7
-* DIMENSION20 
-* DIMENSION22
+* DIMENSION3 - https://numer.ai/dimension3
+* DIMENSION4 - https://numer.ai/dimension4
+* DIMENSION5 - https://numer.ai/dimension5
+* DIMENSION6 - https://numer.ai/dimension6
+* DIMENSION7 - https://numer.ai/dimension7
+* DIMENSION20 - https://numer.ai/dimension20 
+* DIMENSION22 - https://numer.ai/dimension22
