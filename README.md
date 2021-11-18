@@ -29,18 +29,10 @@ What's included:
 ### Disclaimer
 **This model is not guaranteed to make you money.** I am currently not staking this particular model in the tournament. This notebook only serves to provide you an introduction to the tournament and to give some of my personal input on how to tackle this data science problem. 
 
-### Check Out My Models
-Models Using the Old Legacy Dataset (310 features)
-* DIMENSION30 - https://numer.ai/dimension30
-* DIMENSION31 - https://numer.ai/dimension31
-* DIMENSION33 - https://numer.ai/dimension33
-
-Models Using the New Super Massive Dataset (1k+ features)
-* DIMENSION0 - https://numer.ai/dimension0
-* DIMENSION3 - https://numer.ai/dimension3
-* DIMENSION4 - https://numer.ai/dimension4
-* DIMENSION5 - https://numer.ai/dimension5
-* DIMENSION6 - https://numer.ai/dimension6
-* DIMENSION7 - https://numer.ai/dimension7
-* DIMENSION20 - https://numer.ai/dimension20 
-* DIMENSION22 - https://numer.ai/dimension22
+### My Models
+* Sadness - https://numer.ai/sadness
+* Fearful - https://numer.ai/fearful
+* Disgust - https://numer.ai/disgust
+* Anger - https://numer.ai/anger
+* Joyful - https://numer.ai/joyful
+* Happiness - https://numer.ai/happiness
