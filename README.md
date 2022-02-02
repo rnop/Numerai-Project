@@ -31,9 +31,9 @@ What's included:
 
 ### My Models
 * Desire - https://numer.ai/desire
+* Disgust - https://numer.ai/disgust
 * Joyful - https://numer.ai/joyful
-* Bold - https://numer.ai/bold
 * Sadness - https://numer.ai/sadness
 * Fearful - https://numer.ai/fearful
-* Disgust - https://numer.ai/disgust
-* Anger - https://numer.ai/anger
+* Envy - https://numer.ai/envy
+* Loneliness - https://numer.ai/loneliness
