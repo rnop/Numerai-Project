@@ -37,3 +37,4 @@ What's included:
 * Sadness - https://numer.ai/sadness
 * Envy - https://numer.ai/envy
 * Loneliness - https://numer.ai/loneliness
+* Apathy - https://numer.ai/apathy
