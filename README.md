@@ -30,10 +30,10 @@ What's included:
 **This model is not guaranteed to make you money.** I am currently not staking this particular model in the tournament. This notebook only serves to provide you an introduction to the tournament and to give some of my personal input on how to tackle this data science problem. 
 
 ### My Models
+* Adore - https://numer.ai/adore
 * Joyful - https://numer.ai/joyful
 * Fearful - https://numer.ai/fearful
 * Desire - https://numer.ai/desire
-* Adore - https://numer.ai/adore
 * Sadness - https://numer.ai/sadness
 * Envy - https://numer.ai/envy
 * Loneliness - https://numer.ai/loneliness
