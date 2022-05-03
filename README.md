@@ -33,7 +33,7 @@ What's included:
 * Joyful - https://numer.ai/joyful
 * Fearful - https://numer.ai/fearful
 * Desire - https://numer.ai/desire
-* Disgust - https://numer.ai/disgust
+* Adore - https://numer.ai/adore
 * Sadness - https://numer.ai/sadness
 * Envy - https://numer.ai/envy
 * Loneliness - https://numer.ai/loneliness
