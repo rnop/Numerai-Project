@@ -26,10 +26,14 @@ What's included:
 * lightgbm
 * numerapi
 
+<hr>
+
 ### Disclaimer
 **This model is not guaranteed to make you money.** I am currently not staking this particular model in the tournament. This notebook only serves to provide you an introduction to the tournament and to give some of my personal input on how to tackle this data science problem. 
 
-### My Models
+<hr>
+
+### My Staked Models
 * Adore - https://numer.ai/adore
 * Joyful - https://numer.ai/joyful
 * Fearful - https://numer.ai/fearful
