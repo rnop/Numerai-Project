@@ -1,4 +1,4 @@
-# Numerai Tournament (updated for the 1k+ features) 
+# Numerai Tournament (updated for v2, v3, v4) 
 ## Introduction
 Numerai is a global hedge fund that trades the stock market based on crowd-sourced knowledge of data scientists all over the world. They provide expensive, high-quality financial datasets for free to participants in their data science tournament who build and train models and submit their predictions to Numerai every round. If participants are confident about the predictive power of their models, they can stake them with cryptocurrency ($NMR) and potentially earn money for correct predictions during live trading rounds. Numerai then takes the submitted predictions of multiple models of their participants to build their **meta-model** to be used to trade their own portfolio of stocks.
 
@@ -38,7 +38,6 @@ What's included:
 * Joyful - https://numer.ai/joyful
 * Fearful - https://numer.ai/fearful
 * Desire - https://numer.ai/desire
-* Sadness - https://numer.ai/sadness
 * Envy - https://numer.ai/envy
 * Loneliness - https://numer.ai/loneliness
 * Apathy - https://numer.ai/apathy
