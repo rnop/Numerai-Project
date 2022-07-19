@@ -35,10 +35,8 @@ What's included:
 
 ### My Staked Models
 * Adore - https://numer.ai/adore
-* Apathy - https://numer.ai/apathy
-* Joyful - https://numer.ai/joyful
-* Fearful - https://numer.ai/fearful
-* Desire - https://numer.ai/desire
+* Calm - https://numer.ai/calm
 * Envy - https://numer.ai/envy
-* Loneliness - https://numer.ai/loneliness
+* Fearful - https://numer.ai/fearful
+* Joyful - https://numer.ai/joyful
 
