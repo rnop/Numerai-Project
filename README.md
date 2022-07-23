@@ -34,9 +34,7 @@ What's included:
 <hr>
 
 ### My Staked Models
-* Adore - https://numer.ai/adore
 * Calm - https://numer.ai/calm
-* Envy - https://numer.ai/envy
 * Fearful - https://numer.ai/fearful
 * Joyful - https://numer.ai/joyful
 
