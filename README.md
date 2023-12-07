@@ -1,4 +1,4 @@
 # Numerai Tournament
 
-to be updated
+next project - lightgbm + hyperopt + mlfow
 
