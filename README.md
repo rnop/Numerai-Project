@@ -1,6 +1,6 @@
 # Numerai Tournament
 
-This repository provides Jupyter Notebooks to implement tools for analyzing and modeling the Numerai dataset.
+This repository provides Jupyter Notebooks to implement tools for analyzing and modeling the Numerai dataset (v4.2 Rain).
 
 ### Notebooks
 
