@@ -15,7 +15,7 @@ A major change coming in 2024 is the re-introduction of Meta Model Contribution 
 - LightGBM + HyperOpt + MLFlow
 - Update feature-target correlation analysis to v5.0
 
-#### Example - MLOps Design 
+#### Example MLOps Design for Numerai
 ![Hierarchical Ensemble](https://github.com/rnop/Numerai-Project/blob/main/MLOps%20Diagram.png)
 
 
