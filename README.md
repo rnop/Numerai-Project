@@ -17,12 +17,9 @@ A major change coming in 2024 is the re-introduction of Meta Model Contribution 
 
 
 #### v5.0 Models (will update)
--
--
--
--
--
-
+- [ANGOSTURA](https://numer.ai/angostura)
+- [CHAPPELL](https://numer.ai/chappell)
+- [CALM](https://numer.ai/calm)
 
 #### Example MLOps Design for Numerai
 ![Hierarchical Ensemble](https://github.com/rnop/Numerai-Project/blob/main/MLOps%20Diagram.png)
