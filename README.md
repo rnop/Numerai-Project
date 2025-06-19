@@ -20,7 +20,10 @@ A major change coming in 2024 is the re-introduction of Meta Model Contribution 
 - [ANGOSTURA](https://numer.ai/angostura)
 - [SOFTSPOT](https://numer.ai/softspot)
 
-#### Example MLOps Design for Numerai
+#### Temporal Era Splitting
+![Temporal Era Splitting.png](https://github.com/rnop/Numerai-Project/blob/main/Temporal%20Era%20Splitting.png)
+
+#### Ensemble Model Architecture
 ![Hierarchical Ensemble](https://github.com/rnop/Numerai-Project/blob/main/MLOps%20Diagram.png)
 
 
